@@ -1,3 +1,5 @@
+# Lecture 12 and 13
+
 # Frida Tool
 
 Frida is a dynamic instrumentation toolkit designed for developers, reverse engineers, and security researchers. It allows you to inject scripts into running processes to inspect and modify their behavior on the fly.
