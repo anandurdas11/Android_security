@@ -1,7 +1,6 @@
 
 # LECTURE 2
 
-### ANANDU R DAS (CB.SC.P2CYS23014)
 
 Android Debug Bridge (adb) is a versatile command-line tool that enables communication with an Android device. The adb command facilitates a variety of device actions, such as installing and debugging apps. It also provides access to a Unix shell that you can use to run a variety of commands on a device.
 
