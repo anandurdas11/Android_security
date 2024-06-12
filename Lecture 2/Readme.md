@@ -109,4 +109,3 @@ adb pull "/data/app/com.example.myapplication-zlEH9mpwrqoT4DWZ4iBFVw==/base.apk"
 So this command can be used get the app apk and we can save it 
 
 
-
